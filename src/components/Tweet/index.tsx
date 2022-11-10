@@ -22,7 +22,7 @@ const Tweet: React.FC = () => {
     <Container>
       <Retweeted>
         <RetweetIcon />
-        Você retweetou
+        Pinned Tweet
       </Retweeted>
 
       <Body>

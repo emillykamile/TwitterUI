@@ -41,8 +41,8 @@ export const Topside = styled.div`
 `;
 
 export const Logo = styled(Twitter)`
-  width: 41px;
-  height: 41px;
+  width: 39px;
+  height: 39px;
 
   > path {
     fill: var(--twitter);
@@ -66,7 +66,7 @@ export const MenuButton = styled.button`
       margin-left: 19px;
 
       font-weight: bold;
-      font-size: 19px;
+      font-size: 17px;
     }
 
     padding-right: 15px;
@@ -76,7 +76,7 @@ export const MenuButton = styled.button`
   outline: 0;
 
   & + button {
-    margin-top: 16.5px;
+    margin-top: 16.0px;
   }
 
   & + button:last-child {

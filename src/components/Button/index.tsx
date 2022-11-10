@@ -9,7 +9,7 @@ export default styled.button<Props>`
   color: ${(props) => (props.outlined ? 'var(--twitter)' : 'var(--white)')};
   border: ${(props) => (props.outlined ? '1px solid var(--twitter)' : 'none')};
 
-  padding: 16px;
+  padding: 13px;
   border-radius: 25px;
 
   font-weight: bold;

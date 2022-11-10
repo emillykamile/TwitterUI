@@ -1,4 +1,5 @@
-import { Layout,  TwitterIcon } from '.'
+import { TwitterIcon } from "."
+
 
 
 export default {
