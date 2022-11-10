@@ -1,0 +1,21 @@
+
+
+button {
+  background-color: #1DA1F2!Important;
+  border-radius: 20rem!Important;
+  padding: 0.6rem!Important;
+}
+
+@media (min-width: 768px) {
+    section {
+        padding: 12rem!Important;
+    }
+}
+
+@media (max-width: 700px) {
+    section {
+        margin: 3rem;
+    }
+}
+
+
