@@ -10,8 +10,22 @@ https://www.figma.com/file/Xq2EmCtwdBc0nnTt3lBKoZ/UI-Twitter-Web-(Community)-(Co
 
 - [x] React.js
 - [x] Styled Components
-- [ ] Storybook
+- [x] Storybook
 - [x] TypeScript
+- [x] Bootstrap
+- [x] HTML
+- [x] CSS
+
+## Telas
+
+- [x] Profile
+- [x] Login
+- [x] DarkMode
+
+## Documentação
+
+1. Run `npm install`
+2. Run `npm run storybook` 
 
 ## Como usar?
 
